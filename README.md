@@ -46,8 +46,5 @@ module "terraform-aws-vpc" {
 |`subnet_id_private_b`|ID of the private subnet in the "B" Availability Zone.|
 |`subnet_id_private_c`|ID of the private subnet in the "C" Availability Zone.|
 
-LICENSE: 3-clause BSD license.
-
-
 ---
 Copyright © 2019, James Hale
